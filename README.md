@@ -1,6 +1,7 @@
-Merge conflicts happen, DO NoT fear them!!!!!!!
+Merge conflicts, do not fear Them!
 
-This is content that was definitely added through the GitHub interface. I am causing a merge conflict.
+
+This is Content that was added through the GitHub Interface. I am purposely causing a merge conflict to show the class.
 
 This sentefnce was added locally using the GitHub desktop app.
 
